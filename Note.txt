@@ -1,0 +1,8 @@
+mapkhan.ir is Map Api Like google map
+
+for use in javascript
+You must use this code for Calling mapkhan
+
+<script src="http://api.mapkhan.ir/map%20JS%20file/JSBuild.ashx?callback=initMap" async defer></script>
+
+You can get help from http://mapkhan.ir/Developers/Javascript%20Help.aspx
